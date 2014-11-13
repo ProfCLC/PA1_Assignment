@@ -1,4 +1,5 @@
-#Reproducible Research: Peer Assessment 1
+Reproducible Research: Peer Assessment 1
+========================================
 
 ###ProfCLC
 
@@ -97,9 +98,9 @@ print(maxSteps)
 
 ```r
 maxInt <- maxSteps[1]
-maxSt <- round(maxSteps[2], digits = 0)
+maxSt <- round(maxSteps[2]*100, digits = 0)
 ```
-The maximum number of steps, when examining the average across all days, was **206**, which occurred at interval **835**.
+The maximum number of steps, when examining the average across all days, was **20617**, which occurred at interval **835**.
 
 ##Imputing missing values
 
