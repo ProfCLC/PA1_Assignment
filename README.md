@@ -8,4 +8,4 @@ This Repo contains the following files required for Peer Assessment 1 for Reprod
 1. PA1_template.md
 2. PA1_template.Rmd
 3. PA1_template.html
-4. Figure folder containing the figures created for display in the Rmd file
+4. Figure folder containing the figures created for display in the md file
